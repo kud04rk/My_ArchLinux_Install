@@ -381,7 +381,7 @@ sudo -s
 
 switch back to user and run
 ```
-sudo -s
+exit
 ./theme_config.sh
 ```
 # Known Problems
