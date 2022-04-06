@@ -2,13 +2,14 @@
 This is a complete Guide to install Arch linux from scratch.
 I have created various scripts to install Arch linux.
 
+
 Once completed the Arch linux will look like below.
 
 # ScreenShots
-
+![opnebox](https://user-images.githubusercontent.com/23277835/161943850-7bb9e00c-730a-4477-b0a2-81ba1d226383.gif)
 # Features
-<a href="https://github.com/owl4ce/dotfiles/releases/tag/3.2">
-  <img src="https://i.imgur.com/4J0aHbi.png" alt="minimal" align="right" width="400px"/>
+<a>
+  <img src="https://user-images.githubusercontent.com/23277835/161968394-18549645-07da-4476-b0ea-b2149ea70943.jpg" alt="minimal" align="right" width="600px"/>
 </a>
 
 - **Window Manager**               • [Openbox](https://www.youtube.com/watch?v=r5HzpWK7SBY) :art: 4 modes!
