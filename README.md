@@ -381,7 +381,7 @@ sudo -s
 switch back to user and run
 ```
 sudo -s
-./spotify_theme.sh
+./theme_config.sh
 ```
 # Known Problems
 Webgreeter at the time of Writing this doc has a few probelms and not getting installed properly.
