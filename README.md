@@ -5,6 +5,8 @@ I have created various scripts to install Arch linux.
 
 Once completed the Arch linux will look like below.
 
+Last tested on 25-september-2022
+
 # ScreenShots
 
 ![opnebox](https://user-images.githubusercontent.com/23277835/161943850-7bb9e00c-730a-4477-b0a2-81ba1d226383.gif)
