@@ -91,6 +91,25 @@ AMD i have not tested but confident it would work.
 If the system has both intel integrated and a graphics card then both the drivers will be installed.
 
   </details>
+<details>
+<summary><strong>Shortcuts</strong></summary>
+
+- The Install has a complete list of shortcuts that are used in Install.
+
+- Completely configurable shortcuts
+
+## Window management shortcuts
+
+https://github.com/kud04rk/Openbox_Dotfiles/blob/main/openbox%20shortcuts.md
+
+## Terminal shortcuts (kitty)
+
+https://github.com/kud04rk/Openbox_Dotfiles/blob/main/kitty%20shortcuts.md
+
+## FileManager shortcuts
+
+https://github.com/kud04rk/Openbox_Dotfiles/blob/main/Thunar%20shortcuts.md
+  </details>
 
 # How to Install
 
