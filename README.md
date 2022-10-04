@@ -111,6 +111,11 @@ https://github.com/kud04rk/Openbox_Dotfiles/blob/main/kitty%20shortcuts.md
 https://github.com/kud04rk/Openbox_Dotfiles/blob/main/Thunar%20shortcuts.md
   </details>
 
+<details>
+<summary><strong>Wallpaper</strong></summary>
+ - The default wallpapes are located in the .wallpapers of home directory. It can be linked to the place where you save your wallpapers.
+</details>
+
 # How to Install
 
 ## Step 1
